@@ -1,0 +1,105 @@
+.title {
+    text-align: center;
+}
+
+.error-message {
+    height: 18px;
+    text-align: center;
+    margin: 16px;
+    color: red;
+}
+
+.submit-btn-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+/* .submit-btn {
+    width: 100%;
+    margin: 10px 0;
+} */
+
+.heading-item {
+    font-size: 70px;
+}
+.heading {
+    font-size: 35px;
+}
+
+.box-model {
+    width: 600px;
+    height: 625px;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: #fff;
+}
+
+.visitor-register-from {
+    display: grid;
+    margin: 10px;
+}
+
+.table-content {
+    width: 70%;
+}
+
+.table-heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* width: 805px; */
+}
+
+.btn-container {
+    display: grid;
+    grid-template-columns: 100% 80px;
+    gap: 10px;
+}
+
+/* phone number details */
+
+.number-valid {
+    width: 500px;
+    height: 200px;
+    padding: 0 20px;
+    display: flex;
+    /* justify-content: center; */
+    align-items: enext-btn-containernd;
+    flex-direction: column;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.phone-number {
+    height: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.person-details{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    margin: 20px;
+}
+
+.person-heading {
+    text-align: center;
+    font-size: 26px;
+    font-weight: bold;
+    margin: 5px;
+}
+
+.person {
+    font-size: 20px;
+    margin: 12px 0;
+}
+
+.next-btn-container {
+    display: flex;
+    justify-content: end;
+    gap: 20px;
+}
